@@ -26,11 +26,11 @@ int main()
     printf("TEST4:");
     scanf("%d", &prac_2);
 
-    //Calculation
+    
 
 
 
-  //Print Result
+  
   printf("Average Mark =%.2f" , averageMark);
 
 
